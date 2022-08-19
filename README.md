@@ -1,6 +1,6 @@
 # Monkbananas solution
 
-## Running the code online IDE
+## Running the code online
 https://onecompiler.com/java/3ydebnpw8
 
 ## Java Code
