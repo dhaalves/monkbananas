@@ -1,9 +1,9 @@
 # Monkbananas solution
 
-#Running the code online IDE
+## Running the code online IDE
 https://onecompiler.com/java/3ydebnpw8
 
-
+## Java Code
 ``` java
 import static java.lang.Math.max;
 import static java.lang.Math.min;
