@@ -35,7 +35,7 @@ public class Main {
   }
   
   /*
-  Time Complexity: O(N*N)
+  Time Complexity: O(N*M)
   Space Complexity: O(N*M)
   */
   public static int maxForwardPathSum(int[][] mat) {
